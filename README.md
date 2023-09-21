@@ -1,6 +1,6 @@
-# test_app
+# Test App
 
-A new Flutter project.
+Weather Counter Application
 
 ## Getting Started
 
